@@ -6,9 +6,7 @@
 
 all:
 	$(MAKE) -f ./script/lecanta.makefile
-
-$(MAKECMDGOALS):
-	$(MAKE) -f ./script/lecanta.makefile $(MAKECMDGOALS)
+	$(MAKE) -f ./script/Lecanta_RoundSans.makefile
 
 package: all
 	bash script/mkzip_retail_distribution.sh Lecanta 1.$(shell date +'%Y%m%d')

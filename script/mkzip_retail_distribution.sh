@@ -68,7 +68,7 @@ popd
 
 #### その他のものを集める
 cp "${PathProjectRoot}/../RuneAMN_Pro_Series_Fonts/docs/etcs/ttfフォントについて.txt" "$nameZip/fonts/ttf/"
-cp "doc/book/Lecanta_ScriptMeneuvers.pdf" "$nameZip/"
+cp doc/book/Lecanta_*.pdf "$nameZip/"
 cp "doc/string.txt" "$nameZip/"
 #cp "README.md" "$nameZip/README.txt"
 

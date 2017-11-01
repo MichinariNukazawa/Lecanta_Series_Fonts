@@ -5,7 +5,8 @@ Lecanta Series Font
 Lecantaは、[ことのはアムリラート](http://sukerasparo.com/)のファン創作フォントです。  
 劇中に登場する架空言語ユリアーモを表記する際に使われる、ユリアーモ・アルファベット(仮称)を元にデザインされています。  
 
-Lecanta Script Maneuvers (ユリアーモ:"Lecanta Cursivo Manovro")は、筆記体のユリアーモ・アルファベット・フォントです。  
+Lecanta ScriptManeuvers (ユリアーモ:"Lecanta CursivoManovro")は、筆記体のユリアーモ・アルファベット・フォントです。  
+Lecanta RoundSans (ユリアーモ:"Lecanta RondigitaSanaSerif")は、丸みを帯びたサンセリフ体のユリアーモ・アルファベット・フォントです。  
 
 # ライセンス
 ## フォントのライセンス

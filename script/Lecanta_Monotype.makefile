@@ -5,7 +5,7 @@
 # license : 2-clause BSD license
 #
 
-FONTNAME	:= Lecanta_RoundSans
+FONTNAME	?=
 TARGET		:= releases/$(FONTNAME).otf
 DATE		:= $(shell date +'%Y%m%d')
 
